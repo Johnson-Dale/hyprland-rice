@@ -5,6 +5,7 @@
 - Use this as a jumping off point for configuring terminal
 	- Terminal transparency
 	- Different colours (pink, purple, and red themeing?)
+- Install and setup ZSH
 ## Hyprland
 - Need to set up hyprpaper
 	- Find wallpapers
