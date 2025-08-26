@@ -83,7 +83,7 @@ button:hover {
 #memory,
 #disk,
 #temperature,
-#backlight,
+#backlight,		/*This is the mystery module.  Screen brightness*/
 #network,
 #pulseaudio,
 #wireplumber,
