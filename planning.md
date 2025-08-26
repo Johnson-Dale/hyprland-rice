@@ -10,6 +10,7 @@
 	- Find wallpapers
 	- Add to autoexec in hyprland.conf
 - Add gradient to unfocused border colour
+- Figure out how to control screen brightness within hyprland
 ## Waybar
 - Add proper functionality to status bar
 	- Status bar power button
