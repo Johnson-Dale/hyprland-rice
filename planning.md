@@ -24,3 +24,9 @@
 ## Neovim
 - Find plugins for neovim
 	- Power user or full IDE?
+## Languages
+- Add Japanese language support
+	- UIM (aur)
+	- Anthy/anthy-ut
+	- Mozc/uim-mozc
+- Arch wiki entry for setting this up is bookmarked
