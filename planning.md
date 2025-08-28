@@ -1,9 +1,9 @@
 # Plans for Rice
 
 ## Terminal
-- Download cattpuccin theme (mocha)
+- ~~Download cattpuccin theme (mocha)~~
 - Use this as a jumping off point for configuring terminal
-	- Terminal transparency
+	- ~~Terminal transparency~~
 	- Different colours (pink, purple, and red themeing?)
 - Install and setup ZSH
 ## Hyprland
