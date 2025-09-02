@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Delays script from running to allow it to work on startup
+sleep 2
+
 # Sets wallpaper directory and checks currently loaded wallpaper
 WALLPAPER_DIR="$HOME/.wallpapers/"
 CURRENT_WALL=$(hyprctl hyprpaper listloaded)
