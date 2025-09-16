@@ -9,7 +9,9 @@
 ## Hyprland
 - Need to set up hyprpaper
 	- Find wallpapers
-	- Add to autoexec in hyprland.conf
+	- ~~Add to autoexec in hyprland.conf~~
+	- Wallpapers pulled from internet link (similar to better discord)?
+		- If this works, might need default images stored locally for when unable to pull from link
 - Add gradient to unfocused border colour
 - Figure out how to control screen brightness within hyprland
 ## Waybar
